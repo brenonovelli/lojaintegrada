@@ -9,7 +9,7 @@ Codigo para transformar o menu mobile do tema básico da Loja Integrada em um me
 No painel da sua loja:
 
 - Adicione o código do `scripts.js` como JavaScript
-- Adiconer o código do `style.css` como Estilo CSS.
+- Adicione o código do `style.css` como estilo CSS da forma que preferir.
 - As cores principais estão definidas no começo do código contido em `style.css`
   ```css
   body {
@@ -21,3 +21,7 @@ No painel da sua loja:
     --botaoFecharMenuCorX: #ffffff;
   }
   ```
+
+## Quer saber como eu fiz?
+
+Gravei todo o processo de desenvolvimento para ajudar quem está estudando o assunto. O vídeo é voltado para pessoas que querem entender como é todo processo de alteração ou criação de um script. Concepção, planejamento, testes, erros, refatoração. [Veja aqui](https://youtu.be/tVhsFkjWfno)
