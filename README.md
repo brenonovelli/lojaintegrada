@@ -2,7 +2,7 @@
 
 ## [Menu lateral no mobile](SideMenuMobile)
 
-Codigo para transformar o menu mobile do tema básico da Loja Integrada em um menu moderno lateral.
+Código para transformar o menu mobile do tema básico da Loja Integrada em um menu moderno lateral.
 
 ## [Loja ocupando a largura da tela toda](LarguraTotal)
 
