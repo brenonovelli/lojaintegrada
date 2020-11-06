@@ -1,0 +1,26 @@
+/* Toda Loja com largura total */
+.conteiner {
+  max-width: 100vw;
+}
+
+/* Definindo apenas o cabeçalho com largura total */
+#cabecalho .conteiner {
+  max-width: 100vw;
+}
+
+/* Definindo apenas o corpo com largura total */
+#corpo .conteiner {
+  max-width: 100vw;
+}
+
+/* Definindo quais páginas terão largura total */
+.pagina-inicial .conteiner,
+.pagina-produto .conteiner {
+  max-width: 100vw;
+}
+
+/* Definindo quais páginas não terão largura total */
+.pagina-carrinho .conteiner,
+.pagina-cadastro .conteiner {
+  max-width: 1140px;
+}
