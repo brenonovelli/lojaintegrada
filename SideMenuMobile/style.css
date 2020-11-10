@@ -5,6 +5,7 @@ body {
   --backgroundMenuLateral: rgba(0, 0, 0, 0.95);
   --botaoFecharMenu: #bb0000;
   --botaoFecharMenuCorX: #ffffff;
+  --corIconeMenu: #000000;
 }
 
 @media (max-width: 767.98px) {
@@ -32,6 +33,9 @@ body {
   }
   #cabecalho .atalhos-mobile ul li.menu-button a {
     top: 0;
+  }
+  #cabecalho .atalhos-mobile ul li.menu-button a svg * {
+    color: var(--corIconeMenu);
   }
 
   .busca {
