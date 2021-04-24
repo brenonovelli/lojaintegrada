@@ -8,8 +8,8 @@ Codigo para transformar o menu mobile do tema básico da Loja Integrada em um me
 
 No painel da sua loja:
 
-- Adicione o código do `scripts.js` como JavaScript
-- Adicione o código do `style.css` como estilo CSS da forma que preferir.
+- Adicione o código do [`scripts.js`](https://github.com/brenonovelli/lojaintegrada/blob/main/SideMenuMobile/scripts.js) como JavaScript
+- Adicione o código do [`style.css`](https://github.com/brenonovelli/lojaintegrada/blob/main/SideMenuMobile/style.css) como estilo CSS da forma que preferir.
 - As cores principais estão definidas no começo do código contido em `style.css`
   ```css
   body {
