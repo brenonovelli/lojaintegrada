@@ -1,0 +1,32 @@
+body {
+  --barraAvisoTopoBG: #011016;
+  --barraAvisoTopoTexto: #dedede;
+  --barraAvisoTopoAltura: 28px;
+  margin-top: var(--barraAvisoTopoAltura);
+}
+
+/* Opcional - depende do tema */
+#cabecalho {
+  padding-top: var(--barraAvisoTopoAltura);
+}
+
+.barraAvisoTopo {
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+
+  width: 100vw;
+  min-height: var(--barraAvisoTopoAltura);
+  padding: 4px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background: var(--barraAvisoTopoBG);
+  color: var(--barraAvisoTopoTexto);
+  font-size: 12px;
+}
